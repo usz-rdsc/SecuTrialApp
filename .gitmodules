@@ -1,0 +1,6 @@
+[submodule "SecuTrialClient"]
+	path = SecuTrialClient
+	url = https://github.com/usz-rdsc/SecuTrialClient.git
+[submodule "ResearchKit"]
+	path = ResearchKit
+	url = https://github.com/ResearchKit/ResearchKit.git
